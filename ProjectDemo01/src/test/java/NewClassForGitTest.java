@@ -4,5 +4,7 @@ public class NewClassForGitTest {
 @Test
 public void myTestMethod() {
 	System.out.println("this is simple print statement");
+	System.out.println("this is simple print statement 02 ");
+	System.out.println("this is simple print statement 03");
 }
 }
